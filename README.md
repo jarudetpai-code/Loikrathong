@@ -1049,7 +1049,7 @@
             </div>
 
             <div class="gentle">
-                <img src="loi\109340.jpg" alt="..." style="width: 250px; height: auto;">
+                <img src="109340.jpg" alt="..." style="width: 250px; height: auto;">
                 <h3>GENTLE GIANTS &amp; FLOATING GRATITUDE</h3>
                 <p>Connecting our school community with nature conservation and Thai cultural traditions.</p>
             </div>
