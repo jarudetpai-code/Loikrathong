@@ -1,2 +1,0 @@
-# Loikrathong
-loi
